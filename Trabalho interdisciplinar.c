@@ -535,6 +535,11 @@ int main()
     }
  
  
+
+    return 0;
+}
+
+
  /*
  
  Matriz é uma tabela organizada em linhas e colunas no formato m x n, onde m representa o número de linhas (horizontal) e n o número de colunas (vertical). A função das matrizes é relacionar dados numéricos. Por isso, o conceito de matriz não é só importante na Matemática, mas também em outras áreas já que as matrizes têm diversas aplicações .
@@ -548,6 +553,3 @@ Como este conteúdo foi estudado nas disciplinas de Programação e Cálculo, ag
 •	Coloque os códigos e o relatório em uma pasta no Google Drive e envie seu link compartilhado.
 
 */
-    return 0;
-}
-
